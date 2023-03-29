@@ -21,6 +21,7 @@ int main(void) {
          printf("4");
       }
    }
+
    else {
       printf("올바르지 않은 범위입니다");
    }
